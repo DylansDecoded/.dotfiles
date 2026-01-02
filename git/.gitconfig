@@ -1,0 +1,15 @@
+[user]
+	name = Dylan Robson
+	email = dylan@robsonhome.cloud
+[credential]
+	guiPrompt = false
+[credential "https://dev.azure.com"]
+	useHttpPath = true
+[core]
+	excludesfile = ~/.gitignore_global
+	# editor = vim
+[pull]
+	ff = only
+
+[init]
+  defaultBranch = main
